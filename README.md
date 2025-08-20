@@ -40,7 +40,7 @@ Check out more of my repositories [here](https://github.com/dex-campbell?tab=rep
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/dexter-campbell-124865313/)  
-- ✉ **dextercampbell48@gmail.com**
+- **dextercampbell48@gmail.com**
 
 ---
 
