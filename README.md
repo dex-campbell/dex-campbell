@@ -24,7 +24,7 @@ Here are some of the repositories I’m most proud of:
 | [**Coupled-Oscillators**](https://github.com/dex-campbell/Coupled-Oscillators) | Dynamics of interconnected oscillators | C, SDL | Visualizing emergent behaviour in oscillatory systems |
 | [**Blackjack**](https://github.com/dex-campbell/Blackjack) | Classic card game simulation | Python | Implements game logic, randomness & user interaction |
 | [**Tic-Tac-Toe**](https://github.com/dex-campbell/Tic-Tac-Toe) | Two-player grid game | Python | Foundation for game AI (e.g. minimax strategy) |
-| [**Numerical Simulations**](https://github.com/dex-campbell/Numerical-Simulations) | Rayleigh–Taylor convection in magnetic white dwarfs | Python, SciPy | Complex simulation of astrophysical convection |
+| [**Numerical Simulations**](https://github.com/dex-campbell/Numerical-Simulations-of-Rayleigh-Taylor-Driven-Convection-in-Magnetic-White-Dwarfs) | Rayleigh–Taylor convection in magnetic white dwarfs | Python, SciPy | Complex simulation of astrophysical convection |
 
 Check out more of my repositories [here](https://github.com/dex-campbell?tab=repositories).
 
